@@ -1,0 +1,144 @@
+/*小米8*/
+@media only screen and (max-width:393px) and (max-height:780px){
+  html{
+    font-size: 53px;
+  }
+}
+
+@media only screen and (min-width:1020px) and (max-width:1030px){
+  html{
+    font-size: 73px;
+  }
+}
+
+@media only screen and (min-width:760px) and (max-width:770px){
+  html{
+    font-size: 71px;
+  }
+}
+
+@media only screen and (max-width:420px){
+  html{
+    font-size: 56px;
+  }
+}
+@media only screen and (max-width:415px){
+  html{
+    font-size: 55.5px;
+  }
+}
+@media only screen and (max-width:410px){
+  html{
+    font-size: 54.5px;
+  }
+}
+@media only screen and (max-width:405px){
+  html{
+    font-size: 54px;
+  }
+}
+@media only screen and (max-width:400px){
+  html{
+    font-size: 53.5px;
+  }
+}
+@media only screen and (max-width:395px){
+  html{
+    font-size: 53px;
+  }
+}
+@media only screen and (max-width:390px){
+  html{
+    font-size: 52px;
+  }
+}
+@media only screen and (max-width:385px){
+  html{
+    font-size: 51.5px;
+  }
+}
+@media only screen and (max-width:380px){
+  html{
+    font-size: 51px;
+  }
+}
+@media only screen and (max-width:375px){
+  html{
+    font-size: 50.5px;
+  }
+}
+@media only screen and (max-width:370px){
+  html{
+    font-size: 49.5px;
+  }
+}
+@media only screen and (max-width:365px){
+  html{
+    font-size: 49px;
+  }
+}
+@media only screen and (max-width:360px){
+  html{
+    font-size: 48.2px;
+  }
+}
+@media only screen and (max-width:355px){
+  html{
+    font-size: 47.5px;
+  }
+}
+@media only screen and (max-width:350px){
+  html{
+    font-size: 47px;
+  }
+}
+@media only screen and (max-width:345px){
+  html{
+    font-size: 46.5px;
+  }
+}
+@media only screen and (max-width:340px){
+  html{
+    font-size: 45.5px;
+  }
+}
+@media only screen and (max-width:335px){
+  html{
+    font-size: 45px;
+  }
+}
+@media only screen and (max-width:330px){
+  html{
+    font-size: 44.5px;
+  }
+}
+@media only screen and (max-width:325px){
+  html{
+    font-size: 43.5px;
+  }
+}
+@media only screen and (max-width:320px){
+  html{
+    font-size: 43px;
+  }
+}
+@media only screen and (max-width:315px){
+  html{
+    font-size: 42.5px;
+  }
+}
+@media only screen and (max-width:310px){
+  html{
+    font-size: 41.5px;
+  }
+}
+@media only screen and (max-width:305px){
+  html{
+    font-size: 41px;
+  }
+}
+@media only screen and (max-width:300px){
+  html{
+    font-size: 40.5px;
+  }
+}
