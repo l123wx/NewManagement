@@ -1,0 +1,17 @@
+<servlet>
+    <servlet-name>MyServlet</servlet-name>
+    <servlet-class>jsp_7.MyServlet</servlet-class>
+</servlet>
+<servlet-mapping>
+    <servlet-name>MyServlet</servlet-name>
+    <url-pattern>/MyServlet</url-pattern>
+</servlet-mapping>
+<filter>
+    <display-name>MyFilter</display-name>
+    <filter-name>MyFilter</filter-name>
+    <filter-class>jsp_7.MyFilter</filter-class>
+</filter>
+<servlet-mapping>
+    <servlet-name>MyFilter</servlet-name>
+    <url-pattern>/MyServlet</url-pattern>
+</servlet-mapping>

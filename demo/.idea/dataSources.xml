@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="@localhost1 [2]" uuid="a31e39d6-f210-4d57-88a6-48fc696ea5de">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/students_manage</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="newsmanagement@localhost" uuid="09fe3ecc-1d47-4a2b-abea-b57dcb60afc9">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/newsmanagement</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="MySQL for 5.1 - newsmanagement@localhost" uuid="481b0586-fc25-4b31-85aa-21d1c811ce9b">
+      <driver-ref>mysql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/newsmanagement</jdbc-url>
+    </data-source>
+  </component>
+</project>
